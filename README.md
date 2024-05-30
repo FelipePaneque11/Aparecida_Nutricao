@@ -27,6 +27,6 @@ To view the project locally:
 Contact
 Felipe Paneque
 Email: paneque.malta@gmail.com
-LinkedIn: Felipe Paneque
+LinkedIn: [](https://www.linkedin.com/in/felipepaneque1/)
 
 Project Link: https://github.com/FelipePaneque11/Aparecida_Nutricao
